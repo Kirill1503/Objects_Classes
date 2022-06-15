@@ -81,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655046330916</updated>
-      <workItem from="1655046332286" duration="16069000" />
+      <workItem from="1655046332286" duration="16470000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1655046461882</created>
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655238654341</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="DZ_Objects_Classes_2">
+      <created>1655325195679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655325195679</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="DZ_Objects_Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ_Objects_Classes" />
+    <MESSAGE value="DZ_Objects_Classes_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ_Objects_Classes_2" />
   </component>
 </project>

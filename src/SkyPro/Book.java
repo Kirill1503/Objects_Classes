@@ -1,9 +1,6 @@
 package SkyPro;
 public class Book {
-    private Book(String nameAuthor, String surnameAuthor){
-        this.nameAuthor = nameAuthor;
-        this.surnameAuthor = surnameAuthor;
-    }
+    private Author author;
     private String nameAuthor;
     private String surnameAuthor;
     private String title;
@@ -15,12 +12,6 @@ public class Book {
     }
     public String getTitle(){
         return title;
-    }
-    public String getNameAuthor(){
-        return nameAuthor;
-    }
-    public String getSurnameAuthor(){
-        return surnameAuthor;
     }
     public int getYearPublication(){
         return yearPublication;
