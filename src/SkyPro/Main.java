@@ -21,15 +21,23 @@ public class Main {
         System.out.println("sarah.getAge() = " + sarah.getAge());
         Person john = new Person("John", 13 );
         System.out.println();
+
+
+
+
+
+
         Book warAndPeace = new Book("War And peace", 1867);
-        Author Tolstoy = new Author("Lev", "Tolstoy");
+        Author tolstoy = new Author("Lev", "Tolstoy");
         System.out.println("warAndPeace.getTitle() = " + warAndPeace.getTitle());
         System.out.println("warAndPeace.yearPublication() = " + warAndPeace.getYearPublication());
-        System.out.println("Tolstoy.getNameAuthor() = " + Tolstoy.getNameAuthor());
-        System.out.println("Tolstoy.getSurnameAuthor() = " + Tolstoy.getSurnameAuthor());
+        System.out.println("Tolstoy.getNameAuthor() = " + tolstoy.getNameAuthor());
+        System.out.println("Tolstoy.getSurnameAuthor() = " + tolstoy.getSurnameAuthor());
         warAndPeace.setYearPublication(1868);
         System.out.println("warAndPeace.getYearPublication() = " + warAndPeace.getYearPublication());
         System.out.println();
+
+
         Book historyOfTheWealthOfNations = new Book("history of the wealth of nations", 1776);
         Author Smith = new Author("Adam", "Smith");
         System.out.println("historyOfTheWealthOfNations.getTitle() = " + historyOfTheWealthOfNations.getTitle());
