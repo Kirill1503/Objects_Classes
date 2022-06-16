@@ -1,8 +1,6 @@
 package SkyPro;
 public class Book {
     private Author author;
-    private String nameAuthor;
-    private String surnameAuthor;
     private String title;
     private int yearPublication;
 
